@@ -1,2 +1,5 @@
 /lib/*
 /.idea/*
+/output/*
+euhydro_danube_v013.gpkg
+euhydro_po_v013.gpkg
